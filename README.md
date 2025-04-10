@@ -9,5 +9,3 @@ Para tornar a experiência mais divertida, adicionei um sistema de **níveis de 
 ---
 
 ✅ Projeto desenvolvido para praticar lógica de programação e fundamentos da linguagem C#.  
-🚀 Ideal para quem está começando a programar e quer se divertir aprendendo!
-
