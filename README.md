@@ -4,7 +4,7 @@ Este é um jogo simples criado como parte do curso **"C#: Criando sua primeira a
 
 O objetivo do jogo é gerar um número aleatório e desafiar o usuário a adivinhar qual número foi sorteado.
 
-Para tornar a experiência mais divertida, adicionei um sistema de **níveis de dificuldade**, que aumenta o desafio conforme o progresso do jogador.
+Para tornar a experiência mais divertida, adicionei um sistema de **níveis de dificuldade**
 
 ---
 
